@@ -1,0 +1,19 @@
+{
+  "name": "homework-1",
+  "version": "1.0.0",
+  "description": "goit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "author": "dolor185",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nodemon": "^2.0.20",
+    "uid": "^2.0.1",
+    "yargs": "^17.7.1"
+  }
+}
